@@ -115,7 +115,7 @@ This project is distributed under **Proprietary** terms. Internal use, private d
 ## Contact
 
 - Maintainer: **Choi WooHyung** — Principal Solutions Architect, AWS Korea
-- Email: whchoi@amazon.com
+- Email: whchoi98@gmail.com / whchoi@amazon.com
 - LinkedIn: [linkedin.com/in/woohyungchoi](https://linkedin.com/in/woohyungchoi)
 - Issues: open an issue on the repository hosting this project.
 
@@ -225,6 +225,6 @@ codex-workshop/
 ## 연락처
 
 - 메인테이너: **최우형(Choi WooHyung)** — Principal Solutions Architect, AWS Korea
-- 이메일: whchoi@amazon.com
+- 이메일: whchoi98@gmail.com / whchoi@amazon.com
 - LinkedIn: [linkedin.com/in/woohyungchoi](https://linkedin.com/in/woohyungchoi)
 - 이슈: 이 프로젝트가 호스팅된 저장소에 이슈를 등록해 주세요.
