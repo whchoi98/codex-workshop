@@ -15,7 +15,15 @@ A 2-day OpenAI Codex curriculum delivered as twelve rendered PDF modules coverin
 
 ## Overview
 
-Codex Deep Dive Workshop is a Korean-language technical curriculum for OpenAI Codex — "one agent for everywhere you code: CLI, IDE, App, and Web." It is delivered as ready-to-present PDF slide decks that take a team from first install to an autonomous issue-to-PR pipeline. The repository contains **twelve module PDFs** at the project root covering **235 slides** in total: one architecture deep-dive (`00_Codex-Architecture.pdf`) plus eleven sequential modules. Two of the modules are full hands-on labs (Lab A and Lab B), and most lecture modules close with a timed mini-lab. All decks share a consistent design system and bilingual (Korean body, English headings) layout for a uniform visual identity.
+Codex Deep Dive Workshop is a Korean-language technical curriculum for OpenAI Codex. Its theme is simple: "one agent for everywhere you code — CLI, IDE, App, and Web."
+
+The material ships as ready-to-present PDF slide decks. It walks a team step by step, from the first install all the way to an autonomous issue-to-PR pipeline that runs without human intervention.
+
+The repository root holds **twelve module PDFs** totaling **235 slides**. They are made up of one architecture deep-dive (`00_Codex-Architecture.pdf`) plus eleven sequential modules.
+
+Two of those modules — Lab A and Lab B — are full hands-on labs, and most lecture modules close with a timed mini-lab.
+
+Every deck follows a consistent design system and a bilingual layout (Korean body, English headings) for a uniform visual identity.
 
 ## Features
 
@@ -125,7 +133,15 @@ This project is distributed under **Proprietary** terms. Internal use, private d
 
 ## 개요
 
-Codex Deep Dive Workshop은 OpenAI Codex를 위한 한국어 기술 커리큘럼으로, "코드를 작성하는 모든 곳을 위한 하나의 에이전트 — CLI, IDE, App, Web"을 다룹니다. 첫 설치부터 사람 개입 없이 도는 이슈-투-PR 자동화 파이프라인까지 팀을 안내하는 발표용 PDF 슬라이드 자료로 제공됩니다. 저장소 루트에는 총 **235 슬라이드** 분량의 **12개 모듈 PDF**가 있으며, 아키텍처 심화 모듈(`00_Codex-Architecture.pdf`) 하나와 순차적인 11개 모듈로 구성됩니다. 그중 두 모듈(Lab A, Lab B)은 종합 실습 랩이며, 대부분의 강의 모듈은 시간제 미니 랩으로 마무리됩니다. 모든 자료는 일관된 디자인 시스템과 이중 언어(한국어 본문, 영어 제목) 레이아웃을 따라 시각 정체성을 유지합니다.
+Codex Deep Dive Workshop은 OpenAI Codex를 위한 한국어 기술 커리큘럼입니다. "코드를 작성하는 모든 곳을 위한 하나의 에이전트 — CLI, IDE, App, Web"이라는 주제를 다룹니다.
+
+자료는 발표용 PDF 슬라이드로 제공됩니다. 첫 설치부터 사람 개입 없이 도는 이슈-투-PR 자동화 파이프라인까지 팀을 단계적으로 안내합니다.
+
+저장소 루트에는 총 **235 슬라이드** 분량의 **12개 모듈 PDF**가 있습니다. 아키텍처 심화 모듈(`00_Codex-Architecture.pdf`) 하나와 순차적인 11개 모듈로 구성됩니다.
+
+그중 두 모듈(Lab A, Lab B)은 종합 실습 랩이고, 대부분의 강의 모듈은 시간제 미니 랩으로 마무리됩니다.
+
+모든 자료는 일관된 디자인 시스템과 이중 언어(한국어 본문, 영어 제목) 레이아웃을 따라 시각 정체성을 유지합니다.
 
 ## 주요 기능
 
