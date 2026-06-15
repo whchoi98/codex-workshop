@@ -61,7 +61,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - 모듈 7 Plugins, Skills, Subagents(14 슬라이드)를 `07_Plugins_Skills_Subagents.pdf` 로 배포 — 배포 단위로서의 플러그인, `SKILL.md`와 progressive disclosure 기반 스킬, 위임용 서브에이전트, 확장 메커니즘 선택 기준, `plugin-creator` 스캐폴드 포함.
 - 모듈 8 Integrations와 Security(15 슬라이드)를 `08_Integrations_Security.pdf` 로 배포 — GitHub/Slack/Linear 연동, 코딩 에이전트 위협 모델, 프롬프트 인젝션 방어, 다층 보안(샌드박싱·권한·검토·감사), 최소 권한 도입 포함.
 - 모듈 9 Automation과 SDK(15 슬라이드)를 `09_Automation_SDK.pdf` 로 배포 — 비대화형 `codex exec` 스크립팅, Codex SDK, App Server 모드, GitHub Action, MCP 서버 구축, 트리거-실행-검증-전달 레퍼런스 아키텍처 포함.
-- 모듈 10 Lab B — 자동화 파이프라인(15 슬라이드)을 `10_Lab_B_자동화_파이프라인.pdf` 로 배포 — 이슈-투-PR 파이프라인을 구축하는 실습 랩: 로컬 `codex exec` 검증, 라벨 트리거 GitHub Actions 워크플로우, Secrets 주입, 테스트/린트 검증 게이트, Slack 알림 포함 PR 자동 생성, 가드레일 안전장치 점검.
+- 모듈 10 Lab B — 자동화 파이프라인(15 슬라이드)을 `10_Lab_B_자동화_파이프라인.pdf` 로 배포 — issue-to-PR pipeline을 구축하는 실습 랩: 로컬 `codex exec` 검증, 라벨 트리거 GitHub Actions 워크플로우, Secrets 주입, 테스트/린트 검증 게이트, Slack 알림 포함 PR 자동 생성, 가드레일 안전장치 점검.
 - 모듈 11 Enterprise와 Admin(15 슬라이드)을 `11_Enterprise_Admin.pdf` 로 배포 — SSO와 범위 기반 액세스 토큰, 조직 단위 승인·샌드박스 정책, AWS 데이터 경계 내 Amazon Bedrock 배포(IAM/VPC/CloudTrail), 거버넌스, 중앙 관리 설정, 엔터프라이즈 관리자 롤아웃 포함.
 - 2개의 End-to-End 실습 랩(Lab A, Lab B)과 강의 모듈 전반에 포함된 9개의 시간제 미니 랩 제공.
 - 커리큘럼, 사전 요구 사항, 설치 절차, 권장 교육 순서, 프로젝트 구조를 다루는 이중 언어(영어/한국어) `README.md` 추가.

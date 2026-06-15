@@ -135,7 +135,7 @@ This project is distributed under **Proprietary** terms. Internal use, private d
 
 Codex Deep Dive Workshop은 OpenAI Codex를 위한 한국어 기술 커리큘럼입니다. "코드를 작성하는 모든 곳을 위한 하나의 에이전트 — CLI, IDE, App, Web"이라는 주제를 다룹니다.
 
-자료는 발표용 PDF 슬라이드로 제공됩니다. 첫 설치부터 사람 개입 없이 도는 이슈-투-PR 자동화 파이프라인까지 팀을 단계적으로 안내합니다.
+자료는 발표용 PDF 슬라이드로 제공됩니다. 첫 설치부터 사람 개입 없이 도는 issue-to-PR pipeline까지 팀을 단계적으로 안내합니다.
 
 저장소 루트에는 총 **235 슬라이드** 분량의 **12개 모듈 PDF**가 있습니다. 아키텍처 심화 모듈(`00_Codex-Architecture.pdf`) 하나와 순차적인 11개 모듈로 구성됩니다.
 
@@ -147,7 +147,7 @@ Codex Deep Dive Workshop은 OpenAI Codex를 위한 한국어 기술 커리큘럼
 
 - **12개 모듈 PDF 산출물** — 총 235 슬라이드: 아키텍처 심화 모듈과 함께 소개·핵심 개념, CLI, App과 IDE, Codex on Web, 설정·커스터마이징, Plugins/Skills/Subagents, Integrations·Security, Automation·SDK, Enterprise·Admin, 그리고 두 개의 랩으로 구성됩니다. 모든 PDF가 저장소 루트에 위치하여 즉시 열람 가능.
 - **계층형 아키텍처 심화** — `00_Codex-Architecture.pdf`(45 슬라이드)는 에이전트 전체 스택을 다룹니다: 에이전트 루프, Input·Knowledge·Execution & Multi-Agent·Observability·Integration 레이어, 그리고 Skills vs. Subagents vs. MCP vs. Hooks의 선택 기준.
-- **2개의 End-to-End 실습 랩** — Lab A는 설치·로그인부터 버그 수정, 회귀 테스트, PR 생성까지 풀 사이클을 다루고, Lab B는 시크릿·트리거·검증 게이트·가드레일을 갖춘 자율 이슈-투-PR 자동화 파이프라인을 구축합니다.
+- **2개의 End-to-End 실습 랩** — Lab A는 설치·로그인부터 버그 수정, 회귀 테스트, PR 생성까지 풀 사이클을 다루고, Lab B는 시크릿·트리거·검증 게이트·가드레일을 갖춘 자율 issue-to-PR pipeline을 구축합니다.
 - **9개의 시간제 미니 랩** — 강의 모듈은 10~20분 미니 랩으로 마무리되어, 학습자가 각 개념을 즉시 실습할 수 있습니다.
 - **Codex의 모든 사용 환경 포함** — CLI, IDE 확장, 데스크톱 App, Codex on Web(클라우드), Automation/SDK + GitHub Action 경로를 각각 전용 모듈로 다룹니다.
 - **전반에 걸친 엔터프라이즈·보안** — 샌드박싱, 승인 모드, 프롬프트 인젝션 방어, 위협 모델, 인증, 거버넌스, 관리형 설정, Amazon Bedrock 배포.
